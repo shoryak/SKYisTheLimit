@@ -26,6 +26,7 @@ typedef unsigned long long ull;
 #define Yes cout<<"Yes\n"
 #define No cout<<"No\n"
 #define nl "\n"
+#define vout(v) for(auto &x : v){cout << x << " ";}cout << endl;
 #define ff first
 #define ss second 
 #define eps 0.0000001
